@@ -25,3 +25,14 @@
     }
     
 }
+
+
+@media (max-width: 740px) {
+    body {
+        width: 100%;
+        background-color: red;
+    }
+    header{
+        width: 100%;
+    }
+}

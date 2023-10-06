@@ -19,3 +19,4 @@ slideItems[currentIndex].classList.add('active');
 
 
 
+
